@@ -19,19 +19,19 @@ I am **Abhishek Kumar Sharma**, a final-year **Computer Science and Engineering 
 
 ## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://instagram.com/abhi.shek.sharma" target="blank">
+  <!-- <a href="https://instagram.com/abhi.shek.sharma" target="blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://leetcode.com/u/Abhishekrksharma/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://www.hackerearth.com/abhishek kumar sharma" target="blank">
+  <!-- <a href="https://www.hackerearth.com/abhishek kumar sharma" target="blank">
     <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=hackerearth&logoColor=blue" />
-  </a>
+  </a> -->
   <a href="mailto:sharmaabhisehk62026@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/abhishekkrsharma07/" target="blank">
+  <a href="https://www.linkedin.com/feed/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -50,7 +50,7 @@ I am **Abhishek Kumar Sharma**, a final-year **Computer Science and Engineering 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkrsharma07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=abhishekkrsharma07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkrsharma07&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
 </p>
 
@@ -58,9 +58,9 @@ I am **Abhishek Kumar Sharma**, a final-year **Computer Science and Engineering 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkrsharma07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=cpp,python&langs=java,javascript,html,css" height="170" alt="Top Languages"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abhishekkrsharma07&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
-</p>
+</p> -->
 
 
 ---
@@ -89,7 +89,7 @@ I am **Abhishek Kumar Sharma**, a final-year **Computer Science and Engineering 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhishekkrsharma07/abhishekkrsharma07/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src=" https://abhishekkrsharma07.github.io/CRUD-APPLICATION/" alt="CRUD APPLICATION"/>
 </p>
 
 ---
