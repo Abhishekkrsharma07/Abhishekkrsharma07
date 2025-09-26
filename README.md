@@ -9,10 +9,11 @@
 ---
 
 ## 🌟 About Me  
-🎓 I'm a **4th Year CSE Student** passionate about **Problem Solving, Full-Stack Development, and Artificial Intelligence**.  
-💡 Always eager to **learn new technologies** and apply them to real-world projects.  
-🎯 **Goal:** Secure a role in top tech companies & build impactful solutions.  
-⚡ **Fun fact:** I enjoy debugging code more than writing it 😄.  
+I am **Abhishek Kumar Sharma**, a final-year **Computer Science and Engineering student at Amity University, Noida** with a strong foundation in **software development, web technologies, and AI/ML research**.  
+
+💡 Over the past few years, I have built projects ranging from **Next.js-powered student management systems** to **AI-driven deepfake detection research**.  
+⚡ With hands-on experience in **React, Node.js, Express, MySQL, and TailwindCSS**, I combine **problem-solving skills** with a passion for building impactful solutions.  
+🎯 My long-term vision is to contribute to **scalable tech solutions** in top companies while continuing to explore innovations in **Artificial Intelligence**.  
 
 ---
 
@@ -27,7 +28,7 @@
   <a href="https://www.hackerearth.com/abhishek kumar sharma" target="blank">
     <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=hackerearth&logoColor=blue" />
   </a>
-  <a href="mailto:abhishek@example.com" target="blank">
+  <a href="mailto:sharmaabhisehk62026@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/abhishekkrsharma07/" target="blank">
@@ -39,7 +40,7 @@
 
 ## ⚒️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,nextjs,nodejs,express,mysql,mongodb,tailwind,git,github,figma,vscode" />
 </p>
 
 ---
@@ -57,9 +58,25 @@
 ---
 
 ## 🚀 Featured Projects  
-- 🛒 **E-Commerce Website (Full Stack)** – MERN stack with admin & user modules  
-- 🌾 **AI-Powered Smart Farming Assistant** – Chatbot helping farmers with agriculture queries  
-- 🎮 **Snake & Candy Crush Games** – Fun projects using HTML, CSS & JavaScript  
+
+### 🔗 Pinned Repositories  
+<p align="center">
+  <a href="https://github.com/Abhishekkrsharma07/E-Commerce-Clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekkrsharma07&repo=E-Commerce-Clone&theme=radical" />
+  </a>
+  <a href="https://github.com/Abhishekkrsharma07/Weather-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekkrsharma07&repo=Weather-App&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Abhishekkrsharma07/Student-Event-Management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekkrsharma07&repo=Student-Event-Management&theme=radical" />
+  </a>
+  <a href="https://github.com/Abhishekkrsharma07/AI-Deepfake-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekkrsharma07&repo=AI-Deepfake-Detection&theme=radical" />
+  </a>
+</p>
 
 ---
 
@@ -69,4 +86,4 @@
 
 ---
 
-✨ _"Code, Learn, Build, and Repeat."_ ✨
+✨ _"Turning ideas into scalable tech solutions, one project at a time."_ ✨
