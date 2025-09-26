@@ -21,7 +21,7 @@
   <a href="https://instagram.com/abhi.shek.sharma" target="blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/abhishek kumar sharma" target="blank">
+  <a href="https://leetcode.com/u/Abhishekrksharma/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.hackerearth.com/abhishek kumar sharma" target="blank">
