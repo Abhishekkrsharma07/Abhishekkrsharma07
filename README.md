@@ -65,10 +65,10 @@ I am **Abhishek Kumar Sharma**, a final-year **Computer Science and Engineering 
 
 ---
 
-## 🚀 Featured Projects  
+<!-- ## 🚀 Featured Projects  
 
 ### 🔗 Pinned Repositories  
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Abhishekkrsharma07/E-Commerce-Clone">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekkrsharma07&repo=E-Commerce-Clone&theme=radical" />
   </a>
@@ -84,14 +84,13 @@ I am **Abhishek Kumar Sharma**, a final-year **Computer Science and Engineering 
   <a href="https://github.com/Abhishekkrsharma07/AI-Deepfake-Detection">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekkrsharma07&repo=AI-Deepfake-Detection&theme=radical" />
   </a>
-</p>
+</p> -->
 
 ---
 
-<p align="center">
+<!-- <p align="center"> 
   <img src=" https://abhishekkrsharma07.github.io/CRUD-APPLICATION/" alt="CRUD APPLICATION"/>
-</p>
-
+</p> ---->
 ---
 
 ✨ _"Turning ideas into scalable tech solutions, one project at a time."_ ✨
