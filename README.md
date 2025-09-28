@@ -40,7 +40,7 @@ I am **Abhishek Kumar Sharma**, a final-year **Computer Science and Engineering 
 
 ## ⚒️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,html,css,tailwind,react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,tailwind,react,nodejs,express" />
 </p>
 
 
