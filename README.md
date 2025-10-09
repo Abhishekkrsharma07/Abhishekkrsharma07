@@ -1,96 +1,122 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm <span style="color:#00BFFF;">ABHISHEK KUMAR SHARMA</span></h1>
-<h3 align="center">🚀 Final Year Computer Science Engineering Student | Full-Stack Developer | AI/ML Enthusiast</h3>
+<div align="center">
 
+# Hi there, I'm Abhishek Kumar Sharma 👋
+
+### A passionate Full-Stack Developer and AI/ML Enthusiast from India 🇮🇳
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="600"/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=abhishekkrsharma07&label=Profile%20Views&color=00BFFF&style=flat-square" alt="Profile views" />
+</p>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a final-year Computer Science student at **Amity University, Noida**, specializing in Full-Stack Development and Artificial Intelligence. I'm driven by the challenge of transforming complex problems into elegant, scalable software solutions.
+
+- 🔭 I’m currently building a **Next.js-powered student management system** and diving deeper into **AI-driven deepfake detection**.
+- 🌱 I’m always learning more about **system design, scalable architectures, and MLOps**.
+- 👯 I’m looking to collaborate on **open-source projects** related to web development or machine learning.
+- 🎯 My Goal: To contribute to impactful tech solutions at a leading company and continue innovating in the field of AI.
+- ⚡ Fun fact: I believe the best code is written with a cup of coffee in hand! ☕
+
+---
+
+## 🛠️ My Tech Stack
+
+*Skills and tools I use to bring ideas to life.*
+
+<h4>Frontend:</h4>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="600"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,html,css,tailwind" />
+  </a>
+</p>
+
+<h4>Backend:</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,java" />
+  </a>
+</p>
+
+<h4>Databases & Tools:</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman" />
+  </a>
 </p>
 
 ---
 
-## 🌟 About Me  
-I am **Abhishek Kumar Sharma**, a final-year **Computer Science and Engineering student at Amity University, Noida** with a strong foundation in **software development, web technologies, and AI/ML research**.  
+## 📊 My GitHub Stats & Activity
 
-💡 Over the past few years, I have built projects ranging from **Next.js-powered student management systems** to **AI-driven deepfake detection research**.  
-⚡ With hands-on experience in **React, Node.js, Express, MySQL, and TailwindCSS**, I combine **problem-solving skills** with a passion for building impactful solutions.  
-🎯 My long-term vision is to contribute to **scalable tech solutions** in top companies while continuing to explore innovations in **Artificial Intelligence**.  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkrsharma07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="Abhishek's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkrsharma07&theme=tokyonight&hide_border=true" height="170" alt="Abhishek's GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkrsharma07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishekkrsharma07&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</p>
 
 ---
 
-## 🌐 Connect with Me  
+## 🏆 Featured Projects
+
+*Here are some of the projects I'm proud of. Check out my repositories for more!*
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Abhishekkrsharma07/Student-Event-Management" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekkrsharma07&repo=Student-Event-Management&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Abhishekkrsharma07/AI-Deepfake-Detection" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekkrsharma07&repo=AI-Deepfake-Detection&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Abhishekkrsharma07/E-Commerce-Clone" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekkrsharma07&repo=E-Commerce-Clone&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Abhishekkrsharma07/Weather-App" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekkrsharma07&repo=Weather-App&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌐 Let's Connect
+
 <p align="center">
-  <!-- <a href="https://instagram.com/abhi.shek.sharma" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a> -->
-  <a href="https://leetcode.com/u/Abhishekrksharma/" target="blank">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> &nbsp;
+  <a href="https://leetcode.com/u/Abhishekrksharma/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <!-- <a href="https://www.hackerearth.com/abhishek kumar sharma" target="blank">
-    <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=hackerearth&logoColor=blue" />
-  </a> -->
-  <a href="mailto:sharmaabhisehk62026@gmail.com" target="blank">
+  </a> &nbsp;
+  <a href="mailto:sharmaabhisehk62026@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/feed/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
 
 ---
-
-## ⚒️ Languages & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,tailwind,react,nodejs,express" />
-</p>
-
-
-
----
-
-## 📊 GitHub Stats  
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=abhishekkrsharma07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkrsharma07&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
+  ✨ <i>"Turning ideas into scalable tech solutions, one project at a time."</i> ✨
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkrsharma07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=cpp,python&langs=java,javascript,html,css" height="170" alt="Top Languages"/>
-</p>
-
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishekkrsharma07&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
-</p> -->
-
-
----
-
-<!-- ## 🚀 Featured Projects  
-
-### 🔗 Pinned Repositories  
-<!-- <p align="center">
-  <a href="https://github.com/Abhishekkrsharma07/E-Commerce-Clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekkrsharma07&repo=E-Commerce-Clone&theme=radical" />
-  </a>
-  <a href="https://github.com/Abhishekkrsharma07/Weather-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekkrsharma07&repo=Weather-App&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Abhishekkrsharma07/Student-Event-Management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekkrsharma07&repo=Student-Event-Management&theme=radical" />
-  </a>
-  <a href="https://github.com/Abhishekkrsharma07/AI-Deepfake-Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekkrsharma07&repo=AI-Deepfake-Detection&theme=radical" />
-  </a>
-</p> -->
-
----
-
-<!-- <p align="center"> 
-  <img src=" https://abhishekkrsharma07.github.io/CRUD-APPLICATION/" alt="CRUD APPLICATION"/>
-</p> ---->
----
-
-✨ _"Turning ideas into scalable tech solutions, one project at a time."_ ✨ 
