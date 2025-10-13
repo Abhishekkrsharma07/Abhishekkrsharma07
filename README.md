@@ -40,11 +40,11 @@ I am **Abhishek Kumar Sharma**, a final-year **Computer Science and Engineering 
 
 <p align="center">
 
-  <!-- <a href="https://instagram.com/abhi.shek.sharma" target="blank">
+  <a href="https://instagram.com/abhi.shek.sharma" target="blank">
 
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 
-  </a> -->
+  </a> 
 
   <a href="https://leetcode.com/u/Abhishekrksharma/" target="blank">
 
@@ -52,11 +52,11 @@ I am **Abhishek Kumar Sharma**, a final-year **Computer Science and Engineering 
 
   </a>
 
-  <!-- <a href="https://www.hackerearth.com/abhishek kumar sharma" target="blank">
+  <a href="https://www.hackerearth.com/abhishek kumar sharma" target="blank">
 
     <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=hackerearth&logoColor=blue" />
 
-  </a> -->
+  </a> 
 
   <a href="mailto:sharmaabhisehk62026@gmail.com" target="blank">
 
