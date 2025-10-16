@@ -22,7 +22,7 @@ I’m **Abhishek Kumar Sharma**, a **Final-Year Computer Science Engineering** s
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,tailwind,react,nodejs,express,mysql,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,tailwind,react,nodejs,mysql,mongodb,git,github,vscode" />
 </p>
 
 ---
