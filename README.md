@@ -27,19 +27,18 @@ I’m **Abhishek Kumar Sharma**, a **Final-Year Computer Science Engineering** s
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
+  <!-- Main stats -->
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishekkrsharma07&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Abhishekkrsharma07&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <!-- Streak (updated link for proper display) -->
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekkrsharma07&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekkrsharma07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishekkrsharma07&theme=tokyonight" alt="GitHub Summary"/>
+  <!-- Top languages with Java prioritized (will show percentages visually) -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekkrsharma07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&langs=java,javascript,html,css" alt="Top Languages"/>
 </p>
 
 ---
