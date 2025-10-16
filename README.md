@@ -33,7 +33,7 @@ I’m **Abhishek Kumar Sharma**, a **Final-Year Computer Science Engineering** s
   <!-- Main stats -->
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishekkrsharma07&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats"/>
   <!-- Streak (updated link for proper display) -->
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekkrsharma07&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <!-- <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekkrsharma07&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> -->
 </p>
 
 <p align="center">
