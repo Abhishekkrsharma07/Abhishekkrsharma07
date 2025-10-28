@@ -17,7 +17,7 @@ I’m **Abhishek Kumar Sharma**, a **Final-Year Computer Science Engineering** s
 🧩 I enjoy solving complex problems and turning ideas into products.  
 🚀 My goal is to contribute to **AI-powered scalable platforms** in top tech companies.  
 
----
+-----
 
 ## 🛠️ Tech Stack
 
