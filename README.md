@@ -10,7 +10,7 @@
 ---
 
 ## 🧠 About Me
-
+ 
 I’m **Abhishek Kumar Sharma**, a **Final-Year Computer Science Engineering** student at **Amity University, Noida**, passionate about **building impactful tech solutions** and **exploring Artificial Intelligence**.  
 
 💻 I love crafting **scalable web applications** and exploring **AI-driven innovation**.  
