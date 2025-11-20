@@ -7,9 +7,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="550" alt="Coding Animation"/>
 </p>
 
-                   ---
+                   --------
 
-## 🧠 About Me
+## 🧠 About Me 
  
 I’m **Abhishek Kumar Sharma**, a **Final-Year Computer Science Engineering** student at **Amity University, Noida**, passionate about **building impactful tech solutions** and **exploring Artificial Intelligence**.  
 
