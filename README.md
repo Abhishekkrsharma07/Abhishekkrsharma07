@@ -76,7 +76,7 @@ I’m **Abhishek Kumar Sharma**, a **Final-Year Computer Science Engineering** s
   </a>
 </p>
 
-<p align="center">
+<p align="center">                          
   <a href="https://github.com/Abhishekkrsharma07/Student-Event-Management">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekkrsharma07&repo=Student-Event-Management&theme=tokyonight" />
   </a>
