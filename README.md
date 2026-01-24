@@ -7,10 +7,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="550" alt="Coding Animation"/>
 </p>
 
-
-
-
-              
+---
 
 ## 🧠 About Me 
  
@@ -33,14 +30,10 @@ I’m **Abhishek Kumar Sharma**, a **Final-Year Computer Science Engineering** s
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Main stats -->
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishekkrsharma07&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <!-- Streak (updated link for proper display) -->
-  <!-- <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekkrsharma07&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> -->
 </p>
 
 <p align="center">
-  <!-- Top languages with Java prioritized (will show percentages visually) -->
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekkrsharma07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&langs=java,javascript,html,css" alt="Top Languages"/>
 </p>
 
@@ -100,7 +93,15 @@ I’m **Abhishek Kumar Sharma**, a **Final-Year Computer Science Engineering** s
   </a>
 </p>
 
-------
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhishekkrsharma07/Abhishekkrsharma07/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhishekkrsharma07&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
