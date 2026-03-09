@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hey there! I'm <span style="color:#00BFFF;">Abhishek Kumar Sharma</span></h1>
 
-<h3 align="center">🚀 Final Year CSE Student | Full-Stack Developer | AI/ML Enthusiast</h3>
+<h3 align="center"> Final Year CSE Student | Full-Stack Developer | AI/ML Enthusiast</h3>
 
 
 <p align="center">
@@ -99,9 +99,8 @@ I’m **Abhishek Kumar Sharma**, a **Final-Year Computer Science Engineering** s
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhishekkrsharma07/Abhishekkrsharma07/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
-
 ---
 
 <p align="center">
