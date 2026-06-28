@@ -103,45 +103,54 @@
 
   ---
 
-  ## 🚀 Featured Projects
+ ## 🚀 Featured Projects
 
-  > 📌 **Pinned repositories** — 6 projects showcasing full-stack, AI/ML, and systems work
+> 📌 **Pinned repositories** — 6 projects showcasing Full-Stack, AI/ML, Computer Vision, and LLM applications.
 
-  <div align="center">
+<div align="center">
 
-  | # | Project | Description | Tech Stack | Links |
-  |---|---------|-------------|------------|-------|
-  | 🤖 | **AI Deepfake Detection** | Deep learning model to detect manipulated media using CNN & transfer learning. Addresses rising synthetic media concerns. | Python · TensorFlow · OpenCV · Flask | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Abhishekkrsharma07/AI-Deepfake-Detection) |
-  | 🛒 | **E-Commerce Clone** | Full-featured e-commerce platform with product listings, cart, authentication, and payment flow. | React · Node.js · MongoDB · Express | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Abhishekkrsharma07/E-Commerce-Clone) |
-  | 🎓 | **Student Event Management** | Web app for managing college events — registration, scheduling, and admin dashboard. | React · Node.js · MySQL | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Abhishekkrsharma07/Student-Event-Management) |
-  | 🌦️ | **Weather App** | Real-time weather forecasting app with geolocation support and 5-day forecast using OpenWeather API. | JavaScript · HTML · CSS · REST API | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Abhishekkrsharma07/Weather-App) |
-  | 💻 | **DSA Practice Repository** | Structured collection of 100+ Data Structures & Algorithms problems solved in Java with explanations. | Java · Algorithms · Data Structures | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Abhishekkrsharma07?tab=repositories) |
-  | 🔐 | **Authentication System** | Secure JWT-based auth system with refresh tokens, role-based access control, and password hashing. | Node.js · Express · MongoDB · JWT | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Abhishekkrsharma07?tab=repositories) |
+| # | Project | Description | Tech Stack | Links |
+|---|---------|-------------|------------|-------|
+| 📄 | **RAGify** | AI-powered Retrieval-Augmented Generation (RAG) application that enables users to upload PDFs and interact with them through intelligent conversational search. | Python · Flask · LangChain · FAISS · Hugging Face · React | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Abhishekkrsharma07/RAGify) |
+| 👁️ | **CVision-AI** | Computer Vision application powered by AI for image understanding, object analysis, and intelligent visual processing. | Python · OpenCV · TensorFlow · Flask | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Abhishekkrsharma07/CVision-AI) |
+| 🧠 | **NeuroTask-AI** | AI-powered productivity assistant for smart task management, scheduling, and workflow automation using modern AI capabilities. | React · Node.js · AI · MongoDB | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Abhishekkrsharma07/NeuroTask-AI) |
+| 🎉 | **Events Management** | Full-stack event management platform for creating, managing, and registering for events with an intuitive admin dashboard. | React · Node.js · Express · MongoDB | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Abhishekkrsharma07/Events-Management) |
+| 🤖 | **AI Deepfake Detection** | Deep learning-based system to detect manipulated media using CNNs and transfer learning techniques. | Python · TensorFlow · OpenCV · Flask | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Abhishekkrsharma07/AI-Deepfake-Detection) |
+| 💻 | **DSA Practice Repository** | Collection of 100+ Data Structures & Algorithms solutions in Java with optimized approaches and explanations. | Java · DSA · Algorithms | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Abhishekkrsharma07?tab=repositories) |
 
-  </div>
+</div>
 
-  <br/>
+<br/>
 
-  <!-- Project Cards Row 1 -->
-  <div align="center">
-    <a href="https://github.com/Abhishekkrsharma07/AI-Deepfake-Detection">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekkrsharma07&repo=AI-Deepfake-Detection&theme=tokyonight&hide_border=true&border_radius=10" />
-    </a>
-    <a href="https://github.com/Abhishekkrsharma07/E-Commerce-Clone">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekkrsharma07&repo=E-Commerce-Clone&theme=tokyonight&hide_border=true&border_radius=10" />
-    </a>
-  </div>
+<!-- Project Cards Row 1 -->
+<div align="center">
+  <a href="https://github.com/Abhishekkrsharma07/RAGify">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekkrsharma07&repo=RAGify&theme=tokyonight&hide_border=true&border_radius=10" />
+  </a>
+  <a href="https://github.com/Abhishekkrsharma07/CVision-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekkrsharma07&repo=CVision-AI&theme=tokyonight&hide_border=true&border_radius=10" />
+  </a>
+</div>
 
-  <!-- Project Cards Row 2 -->
-  <div align="center">
-    <a href="https://github.com/Abhishekkrsharma07/Student-Event-Management">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekkrsharma07&repo=Student-Event-Management&theme=tokyonight&hide_border=true&border_radius=10" />
-    </a>
-    <a href="https://github.com/Abhishekkrsharma07/Weather-App">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekkrsharma07&repo=Weather-App&theme=tokyonight&hide_border=true&border_radius=10" />
-    </a>
-  </div>
+<!-- Project Cards Row 2 -->
+<div align="center">
+  <a href="https://github.com/Abhishekkrsharma07/NeuroTask-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekkrsharma07&repo=NeuroTask-AI&theme=tokyonight&hide_border=true&border_radius=10" />
+  </a>
+  <a href="https://github.com/Abhishekkrsharma07/Events-Management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekkrsharma07&repo=Events-Management&theme=tokyonight&hide_border=true&border_radius=10" />
+  </a>
+</div>
 
+<!-- Project Cards Row 3 -->
+<div align="center">
+  <a href="https://github.com/Abhishekkrsharma07/AI-Deepfake-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekkrsharma07&repo=AI-Deepfake-Detection&theme=tokyonight&hide_border=true&border_radius=10" />
+  </a>
+  <a href="https://github.com/Abhishekkrsharma07">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishekkrsharma07&repo=DSA&theme=tokyonight&hide_border=true&border_radius=10" />
+  </a>
+</div>
   ---
 
   ## 📊 GitHub Analytics
